@@ -1,0 +1,3 @@
+/home/ezdies/VSCode/cpp/testProject/build/CMakeFiles/main.dir
+/home/ezdies/VSCode/cpp/testProject/build/CMakeFiles/edit_cache.dir
+/home/ezdies/VSCode/cpp/testProject/build/CMakeFiles/rebuild_cache.dir
